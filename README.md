@@ -8,7 +8,7 @@
 #### UE4内で機械学習(LSTM)を用いたシンプルな移動物体予測
  - https://twitter.com/yukirinmk2/status/872278662015361024
  - [github/yukirin/RegionTF](https://github.com/yukirin/RegionTF)
- ###### 使用技術:Python, UE4, TensorfFlow
+###### 使用技術:Python, UE4, TensorfFlow
 
 #### UE4でのアクションゲーム制作
 
