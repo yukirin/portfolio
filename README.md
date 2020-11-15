@@ -1,7 +1,7 @@
 # Portfolio
 ## 制作物
 ### 偏差射撃、予測射撃を計算するUE4プラグインの開発、UE4マーケットプレイスでの販売
-- [UE4 MarketPlace: PredictionShotPlugin](https://www.unrealengine.com/marketplace/ja/product/prediction-shot-plugin)
+- 販売ページ: [UE4 MarketPlace: PredictionShotPlugin](https://www.unrealengine.com/marketplace/ja/product/prediction-shot-plugin)
 ##### 使用技術: C++, UE4
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BrCKP1JALYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
@@ -13,7 +13,7 @@
 <br/>
 
 ### UE4でのアクションゲーム制作
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">メカ少女 進捗3<br>Niagaraで変身部分のエフェクト作ってみたけど、タイムライン便利!<a href="https://twitter.com/hashtag/UE4?src=hash&amp;ref_src=twsrc%5Etfw">#UE4</a> <a href="https://twitter.com/hashtag/Niagara?src=hash&amp;ref_src=twsrc%5Etfw">#Niagara</a> <a href="https://t.co/11DCHgE8nC">pic.twitter.com/11DCHgE8nC</a></p>&mdash; yukirinmk2 (@yukirinmk2) <a href="https://twitter.com/yukirinmk2/status/1252978901061496839?ref_src=twsrc%5Etfw">April 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">メカ少女 進捗3<br>Niagaraで変身部分のエフェクト作ってみたけど、タイムライン便利!<a href="https://twitter.com/hashtag/UE4?src=hash&amp;ref_src=twsrc%5Etfw">#UE4</a> <a href="https://twitter.com/hashtag/Niagara?src=hash&amp;ref_src=twsrc%5Etfw">#Niagara</a> <a href="https://t.co/11DCHgE8nC">pic.twitter.com/11DCHgE8nC</a></p>&mdash; yukirinmk2 (@yukirinmk2) <a href="https://twitter.com/yukirinmk2/status/1252978901061496839?ref_src=twsrc%5Etfw">April 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ##### 使用技術: UE4
 <br/>
 
