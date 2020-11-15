@@ -38,5 +38,7 @@
 #### AtCoder(競技プログラミング):[![yukirin](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fyukirin)](https://atcoder.jp/users/yukirin) 水色、レーティング1209
 <br/>
 
-## Github
+## Github、ブログ
 #### [github/yukirin](https://github.com/yukirin)
+#### [なんかメモ](http://yukirinmk2.hatenablog.com/)
+
