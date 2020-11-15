@@ -31,7 +31,7 @@
 - yukicoder(競技プログラミングサイト)のテストケースをダウンロードしローカルでテストを実行するClIツール
 #### Github [goyuki](https://github.com/yukirin/goyuki)
 #### 担当箇所:全工程(実装、テスト)
-#### 使用技術: Go
+#### 使用技術: Go、Git
 <br/>
 
 ## 競技プログラミング
