@@ -10,7 +10,7 @@
 
 #### UE4でのアクションゲーム制作
 
-#### UE4でのロボットアクションゲームの制作
+#### UE4でのロボットアクションゲーム制作
  - [![Part1](https://img.youtube.com/vi/wh1UWnNlNKY/0.jpg)](https://www.youtube.com/watch?v=wh1UWnNlNKY)
  - [![Part2](https://img.youtube.com/vi/CeEwsBDbypM/0.jpg)](https://www.youtube.com/watch?v=CeEwsBDbypM)
 
