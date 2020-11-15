@@ -45,6 +45,7 @@
 - Python: Tornadoを用いたAPIサーバーの作成、機械学習等
 - Go: CLIツールの作成等
 - HTML, CSS, JavaScript: Knockout.jsを用いたサイト制作等
+- Git: バージョン管理
 - Linux: Linuxルーターの作成等  
 <br/>  
 
