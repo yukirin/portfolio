@@ -8,7 +8,7 @@
 
 ### UE4内で機械学習(LSTM)を用いたシンプルな移動物体予測
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">UE4とTensorFlowでニューラルネットワーク(LSTM)を使った簡単な移動予測をやってみた 先頭の赤い箱で0.9秒先の予測位置くらい<br>以前のロボゲーに組み込めたら面白そうだけど多分きつそう<a href="https://twitter.com/hashtag/UE4?src=hash&amp;ref_src=twsrc%5Etfw">#UE4</a> <a href="https://twitter.com/hashtag/Tensorflow?src=hash&amp;ref_src=twsrc%5Etfw">#Tensorflow</a> <a href="https://t.co/EmNWmj6c3E">pic.twitter.com/EmNWmj6c3E</a></p>&mdash; yukirinmk2 (@yukirinmk2) <a href="https://twitter.com/yukirinmk2/status/872278662015361024?ref_src=twsrc%5Etfw">June 7, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- - [github/yukirin/RegionTF](https://github.com/yukirin/RegionTF)
+ - ソースコード: [github/yukirin/RegionTF](https://github.com/yukirin/RegionTF)
 ##### 使用技術:Python, UE4, TensorfFlow
 <br/>
 
