@@ -45,8 +45,8 @@
 - Python: Tornadoを用いたAPIサーバーの作成、機械学習等
 - Go: CLIツールの作成等
 - HTML, CSS, JavaScript: Knockout.jsを用いたサイト制作等
-- Linux: Linuxルーターの作成等
-<br/>
+- Linux: Linuxルーターの作成等  
+<br/>  
 
 ## Github、ブログ
 - #### [github/yukirin](https://github.com/yukirin)
