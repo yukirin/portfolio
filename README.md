@@ -48,6 +48,6 @@
 - Linux: Linuxルーターの作成等
 <br/>
 ## Github、ブログ
-#### [github/yukirin](https://github.com/yukirin)
-#### [なんかメモ](http://yukirinmk2.hatenablog.com/)
+- #### [github/yukirin](https://github.com/yukirin)
+- #### [なんかメモ](http://yukirinmk2.hatenablog.com/)
 
