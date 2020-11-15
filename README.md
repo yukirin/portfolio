@@ -43,7 +43,7 @@
 ## スキルセット
 - C++: UE4でのプラグイン開発、競技プログラミング等
 - UE4: ゲーム制作、プラグイン開発
-- WebGL(GLSL):PBR、レイマーチングなど
+- WebGL(GLSL):PBR、レイマーチングなどシェーダー関連
 - Python: Tornadoを用いたAPIサーバーの作成、機械学習等
 - Go: CLIツールの作成等
 - HTML, CSS, JavaScript: Knockout.jsを用いたサイト制作等
