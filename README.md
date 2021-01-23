@@ -37,7 +37,7 @@
 <br/>
 
 ### FlickrAPIを用いた画像ギャラリーサイト
-#### Github [dogflick](https://github.com/yukirin/dogflick)
+#### Github [dogflick](https://github.com/yukirin/dogflick2)
 #### 担当箇所:全工程(設計、実装、テスト)
 #### 使用技術: Python(Tornado)、Git、HTML5、CSS3、Javascript、jQuery、Bootstrap、heroku、MongoDB
 <br/>
